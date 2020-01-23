@@ -1,0 +1,446 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto:300,400,500&display=swap');
+
+.aboutContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 70px 25px 0px 0px;
+}
+
+.stackedContainer {
+    flex-direction: column;
+    justify-content: right;
+    max-width: 38%;
+}
+
+.aboutHeader {
+    text-align: right;
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.aboutBody {
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    max-width: 100%;
+    font-size: 18px;
+    margin: 0px;
+}
+
+.landingContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 70px 25px 0px 0px;
+}
+
+.landingSubcontainer {
+    margin-top: 25px;
+}
+
+.landingHeader {
+    text-align: right;
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.landingSubheader {
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    font-size: 27px;
+    margin-bottom: 0px;
+}
+
+.landingBody {
+    flex-wrap: wrap;
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.QuinImg {
+    width: 37%;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    z-index: -1;
+}
+
+.resumeButton{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: #434343;
+}
+
+.greenDots {
+    width: 50%;
+    margin-right: -268px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.yellowDots {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 25px;
+}
+
+.yellowDotsImg {
+    width: 25%;
+    margin: 0px;
+}
+
+.blueDotsDiv {
+    display: flex;
+    align-self: center;
+    justify-content: space-evenly;
+}
+
+.blueDotsDiv2 {
+    display: flex;
+    align-self: center;
+    justify-content: space-evenly;
+    margin: 10%;
+}
+
+.blueDots {
+    width: 130px;
+    max-height: 100%;
+}
+
+.orangeDotsDiv {
+    display: flex;
+    align-self: center;
+    justify-content: space-evenly;
+}
+
+.orangeDots {
+    width: 130px;
+    max-height: 100%;
+}
+
+.redOrangeDotsDiv {
+    display: flex;
+    align-self: center;
+    justify-content: space-evenly;
+}
+
+.redOrangeDots {
+    width: 130px;
+    max-height: 21px;
+}
+
+
+.hopeScreenshot {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    box-shadow:  0px 7px 30px 0px rgba(50, 50, 50, 0.25);
+}
+
+.hopePortfolioHeader {
+    text-align: left;
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.hopePortfolioBody {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.hopeDiv {
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-evenly;
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+
+.hopeSubDiv {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 34%;
+}
+
+.hopeScreenshot {
+    max-width: 35%;
+    width: 35%;
+    height: auto;
+}
+
+.hopeScreenshot {
+    width: 50%;
+    display: flex;
+    box-shadow:  0px 7px 30px 0px rgba(50, 50, 50, 0.25);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cohortPortfolioHeader {
+    text-align: left;
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.cohortPortfolioBody {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.cohortDiv {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+
+   margin: 55px;
+}
+
+.cohortSubDiv {
+    display: flex;
+    flex-direction: column;
+    max-width: 34%;
+}
+
+.cohortScreenshot {
+    max-width: 465px;
+    max-height: 290px;
+    box-shadow:  0px 7px 30px 0px rgba(50, 50, 50, 0.25);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.buttonContainer {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.portfolioButtonContainer {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5%;
+}
+
+.button {
+    text-decoration: none;
+    color: #434343;
+    border: 1.5px solid;
+    padding: 10px 15px 10px 15px;
+    transition-duration: .2s;
+}
+
+.button:hover {
+    background-color: #434343;
+    color: #ffffff;
+    border-bottom: 1.5px solid;
+    border-color: #434343;
+}
+
+.overviewDiv {
+    background-color: #e9f8f8;
+    padding: 20px;
+
+}
+
+.cohortOverviewDiv {
+    background-color: #e9ada2;
+    padding: 20px;
+
+}
+
+.hypothesisDiv {
+    background-color: #e9f8f8;
+    padding: 20px;
+}
+
+.problemDiv{
+    padding: 20px;
+}
+
+.mockupDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.mockupImagesTop {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+}
+
+.mockupImagesBottom {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+}
+
+.mockupsLeft {
+    max-width: 65%;
+    min-width: 280px;
+    box-shadow: 15px 15px 20px 5px rgba(50, 50, 50, 0.15), -25px -25px 0px 10px #e9f8f8;
+    margin-top: 15%;
+}
+
+.mockupsRight {
+    max-width: 65%;
+    min-width: 280px;
+    box-shadow: 15px 15px 20px 5px rgba(50, 50, 50, 0.15), -25px -25px 0px 10px #e9f8f8;
+    margin-top: 15%;
+}
+
+.bottomRight{
+    max-width: 400px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.hopeDetailsSection {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-bottom: 0px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.hopeDetailsHeader {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    margin-left: 5%;
+}
+
+.hopeDetailsBody {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    margin-left: 5%;
+    margin-right: 15%;
+}
+
+.hopeFlowBody {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    margin-left: 5%;
+    margin-right: 15%;
+}
+
+.personaDiv {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 150px;
+}
+
+.hopePersonaNeedBody {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.hopePersonaAssistBody {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.personasHelpImg {
+    max-width: 85%;
+    min-width: 405px;
+    box-shadow:  0px 7px 30px 0px rgba(50, 50, 50, 0.25);
+}
+
+.personasAssistImg {
+    max-width: 85%;
+    min-width: 405px;
+    box-shadow:  0px 7px 30px 0px rgba(50, 50, 50, 0.25);
+}
+
+.personasAssistDiv{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.assistDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.flowDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 150px;
+}
+
+.flowDivInverse {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 150px;
+}
+
+.hopeFlowBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 425px;
+    margin-right: 0px;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hopeFlowBodyInverse {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 425px;
+    margin-left: 0px;
+    margin-right: 72px;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hopeFlowImgRight {
+    max-width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hopeFlowImgLeft {
+    max-width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hopeFlowImg {
+    max-width: 80%;
+    min-width: 280px;
+    box-shadow: 0px 7px 30px 0px rgba(50, 50, 50, 0.15);
+}

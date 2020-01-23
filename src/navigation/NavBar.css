@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto:300,400,500&display=swap');
+
+.navContainer {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 10px 25px 0px 0px;
+    padding: 10px 0px 0px 0px;
+
+}
+
+.logoContainer {
+    max-height: 50px;
+}
+
+.quinLogo {
+    max-height: 10%;
+    max-width: 10%;
+    width: auto;
+    height: auto;
+    margin-left: 25px;
+    position: absolute;
+    background-size: cover;
+
+}
+
+.quinLogoGif {
+    max-height: 10%;
+    max-width: 10%;
+    min-height: 65px;
+    margin-left: 25px;
+    position: absolute;
+    opacity: 0;
+}
+
+.quinLogo:hover {
+    opacity: 0;
+}
+
+.quinLogoGif:hover {
+    opacity:100;
+}
+
+li {
+    list-style: none;
+    padding-left: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.home-link{
+    text-decoration: none;
+    color: #434343;
+}
+
+.about-me-link{
+    text-decoration: none;
+    color: #434343;
+}
+
+.portfolio-link{
+    text-decoration: none;
+    color: #434343;
+}
+
+.resume-link{
+    text-decoration: none;
+    color: #434343;
+}
+
+.contact-link{
+    text-decoration: none;
+    color: #434343;
+}
