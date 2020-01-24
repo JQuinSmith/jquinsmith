@@ -12,44 +12,41 @@ export default class Cohort35PortfolioDetails extends Component {
                     <div className="blueDotsDiv">
                         <img src={require("../resources/dots-redorange.png")} alt="blue dots" className="blueDots" />
                     </div>
-                    <img src={require("../resources/hope-screenshot.png")} alt="hope screenshot" className="hopeScreenshot" />
+                    <img src={require("../resources/cohort35-screenshot.png")} alt="hope screenshot" className="hopeScreenshot" />
                 </div>
                 <div className="cohortOverviewDiv">
                     <h4 className="hopeDetailsSection">- Overview</h4>
-                    <h5 className="hopeDetailsHeader">The Hope App is a two-week project that gave me a viable path to address a growing local stigma.</h5>
+                    <h5 className="hopeDetailsHeader">Cohort 35 is Unique</h5>
                     <p className="hopeDetailsBody">
-                        Nashville is currently undergoing a trend of exponential growth. Cultural and financial differences between transplants and locals, however, have introduced a unique culture that is not without its downsides.
+                        Much like every cohort that preceded us at Nashville Software School, we spent the first half of our six month bootcamp as a unified group learning the fundamentals of HTML, CSS, JavaScript, and ReactJS.
                     </p>
                     <p className="hopeDetailsBody">
-                        As a counter to that negativity, Hope allows users to either ask for assistance with a particular issue or lend others a hand by accepting existing issues posted by other users.
-                    </p>
-                    <p className="hopeDetailsBody">
-                        Rome wasn’t built in a day and a lot of the hardships we face on a global scale can’t realistically be solved by one person in that same amount of time either. Hope was designed to serve as a ripple that might remind and inspire others that we’re all in this together.
+                        At the end of our "mid-term" capstone, however, over half of our cohort diverged to focus on learning C# and .NET while the remaining students went on to focus on UI/UX research - an NSS first.
                     </p>
                 </div>
                 <div className="problemDiv">
                     <h4 className="hopeDetailsSection">- Problem</h4>
-                    <h5 className="hopeDetailsHeader">Small town charm with a big city vibe.</h5>
+                    <h5 className="hopeDetailsHeader">Yes we're different. How do we convey and capitalize on that fact?</h5>
                     <p className="hopeDetailsBody">
-                        Rising cost of living, stagnant wages, an influx of new residents, traffic - the face of Nashville has changed drastically since the early 2000s. Life is hard and there may not always be a means to tackle an unexpected expense or situation as it arises.
+                        While there has been one cohort in the past that has focused on UI/UX, cohort 35 was the first to split into two separate concentrations. Getting prospective employers to understand this right off the bat was crucial.
                     </p>
                 </div>
                 <div className="cohortOverviewDiv">
                     <h4 className="hopeDetailsSection">- Hypothesis</h4>
                     <h5 className="hopeDetailsHeader">
-                        Reintroduce people to the concept of helping each other.
+                        Emphasize our differences as early and as frequently as possible
                     </h5>
                     <p className="hopeDetailsBody">
-                        We live in an interesting period of time where trust is simultaneously easy to place and hard to earn. From hopping into shared rides, staying with strangers while traveling to other cities, to online grocery delivery - many of these instances involve placing trust in absolute strangers.
+                        While we take pride in who we are as a cohort, we have to understand that, for the purpose of building this website, we would not be the primary users.
                     </p>
                     <p className="hopeDetailsBody">
-                        Imagine how much tighter knit of a community that could be cultivated in Nashville if that same premise were applied to selflessly helping those same strangers in need?
+                        Employers may have an idea on how to navigate cohort sites from the past based on the templates that were used but with the introduction of a unique, split cohort a new approach was needed (we kinda wanted to stand out too).
                     </p>
                 </div>
                 <div className="statementDiv">
                     <h4 className="hopeDetailsSection">- Problem Statement</h4>
                     <h5 className="hopeDetailsHeader">
-                        How might we offer a platform that connects users in need with other local users willing to lend a hand, emphasizing the sense of community within the Greater Nashville Area?
+                        How might we promote Demo Day and showcase Cohort 35’s dual skill sets to potential employers with the ultimate goal of employment?
                     </h5>
                     <p className="hopeDetailsBody">
                         Maybe you’ve read about it on Reddit (or even witnessed it)? Sitting in a drive through and you pull up to the window, mindlessly prepared to hand the cashier your card to pay, and they inform you that the person ahead of you covered your ticket. It’s a pretty liberating experience, a breath of fresh air. You glance from the cashier to your rear view mirror and see someone waiting behind you. A stranger. You smile and decide to continue the spontaneous chain of a good deed, maintaining anonymity in the process. You pull away from the drive through with your food in tow, revelling in the little bit of faith you had in humanity that was restored that afternoon.
