@@ -15,7 +15,7 @@ export default class ApplicationViews extends Component {
         return (
             <>
                 <Route
-                    exact path="/" render={props => {
+                    exact path="/jquinsmith" render={props => {
                         return <Landing {...props} />
 
                     }}
@@ -36,21 +36,21 @@ export default class ApplicationViews extends Component {
                 />
 
                 <Route
-                    exact path="/hope" render={props => {
+                    exact path="/portfolio/hope" render={props => {
                         return <HopePortfolioDetails {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/cohort35" render={props => {
+                    exact path="/portfolio/cohort35" render={props => {
                         return <Cohort35PortfolioDetails {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/bangazon" render={props => {
+                    exact path="/portfolio/bangazon" render={props => {
                         return <BangazonPortfolioDetails {...props} />
 
                     }}

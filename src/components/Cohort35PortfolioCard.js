@@ -10,7 +10,7 @@ export default class Cohort35PortfolioCard extends Component {
                         <h1 className="cohortPortfolioHeader">Cohort 35 Website</h1>
                         <p className="cohortPortfolioBody">A site built to showcase the Nashville Software School Cohort 35 students and their respective skillsets and tech stacks.</p>
                         <div className="buttonContainer">
-                            <a href="/cohort35" className="button">View the Case Study</a>
+                            <a href="/portfolio/cohort35" className="button">View the Case Study</a>
                         </div>
                     </div>
                     <div className="redOrangeDotsDiv">
