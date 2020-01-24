@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3ffcb62fa54940e82da95cedade2f5f",
+    "revision": "d9d14944da347479309abbc45b77e957",
     "url": "JQuinSmith.github.io/jquinsmith/index.html"
   },
   {
-    "revision": "3369734b463f8c0e0195",
-    "url": "JQuinSmith.github.io/jquinsmith/static/css/main.ad701d4a.chunk.css"
+    "revision": "83f5410eb2dc9ea1cc66",
+    "url": "JQuinSmith.github.io/jquinsmith/static/css/main.eaf16be8.chunk.css"
   },
   {
-    "revision": "5350d7e302e4fe2bc33c",
-    "url": "JQuinSmith.github.io/jquinsmith/static/js/2.6324a68b.chunk.js"
+    "revision": "0faa388e271ffe6ed711",
+    "url": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "JQuinSmith.github.io/jquinsmith/static/js/2.6324a68b.chunk.js.LICENSE"
+    "url": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js.LICENSE"
   },
   {
-    "revision": "3369734b463f8c0e0195",
-    "url": "JQuinSmith.github.io/jquinsmith/static/js/main.3c7e79dc.chunk.js"
+    "revision": "83f5410eb2dc9ea1cc66",
+    "url": "JQuinSmith.github.io/jquinsmith/static/js/main.b2b11dfc.chunk.js"
   },
   {
     "revision": "1710d0d870aab8694a76",
@@ -110,6 +110,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "11cb2621dca0f5703f6b81f4ef96b1d0",
     "url": "JQuinSmith.github.io/jquinsmith/static/media/bangazon-screenshot.11cb2621.png"
+  },
+  {
+    "revision": "920aeb0994f2aca0d5b293e9c9da04d4",
+    "url": "JQuinSmith.github.io/jquinsmith/static/media/bangazonContentMap-1.920aeb09.jpg"
+  },
+  {
+    "revision": "efa93e3910e5ee4d92f5395bdd8669bd",
+    "url": "JQuinSmith.github.io/jquinsmith/static/media/bangazonContentMap-2.efa93e39.jpg"
+  },
+  {
+    "revision": "b91d3c8e2b2e4fb7ee6d8476f398a2f1",
+    "url": "JQuinSmith.github.io/jquinsmith/static/media/bangazonJourneyMap-1.b91d3c8e.jpg"
+  },
+  {
+    "revision": "2919818206c47d223722a88f2b9c8051",
+    "url": "JQuinSmith.github.io/jquinsmith/static/media/bangazonJourneyMap-2.29198182.jpg"
+  },
+  {
+    "revision": "765d037b1ace7147aa9f093c2d8b9829",
+    "url": "JQuinSmith.github.io/jquinsmith/static/media/bangazonLoFiMockups.765d037b.jpg"
+  },
+  {
+    "revision": "321f2a47662d68fd4e7c368f27bd9636",
+    "url": "JQuinSmith.github.io/jquinsmith/static/media/bangazonPaperMockup-usertest.321f2a47.jpg"
   },
   {
     "revision": "636168671190e20399d955f9ed2d0aa3",

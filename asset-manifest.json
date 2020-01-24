@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "JQuinSmith.github.io/jquinsmith/static/css/main.ad701d4a.chunk.css",
-    "main.js": "JQuinSmith.github.io/jquinsmith/static/js/main.3c7e79dc.chunk.js",
-    "main.js.map": "JQuinSmith.github.io/jquinsmith/static/js/main.3c7e79dc.chunk.js.map",
+    "main.css": "JQuinSmith.github.io/jquinsmith/static/css/main.eaf16be8.chunk.css",
+    "main.js": "JQuinSmith.github.io/jquinsmith/static/js/main.b2b11dfc.chunk.js",
+    "main.js.map": "JQuinSmith.github.io/jquinsmith/static/js/main.b2b11dfc.chunk.js.map",
     "runtime-main.js": "JQuinSmith.github.io/jquinsmith/static/js/runtime-main.482f2faa.js",
     "runtime-main.js.map": "JQuinSmith.github.io/jquinsmith/static/js/runtime-main.482f2faa.js.map",
-    "static/js/2.6324a68b.chunk.js": "JQuinSmith.github.io/jquinsmith/static/js/2.6324a68b.chunk.js",
-    "static/js/2.6324a68b.chunk.js.map": "JQuinSmith.github.io/jquinsmith/static/js/2.6324a68b.chunk.js.map",
+    "static/js/2.65c0e879.chunk.js": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js",
+    "static/js/2.65c0e879.chunk.js.map": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js.map",
     "index.html": "JQuinSmith.github.io/jquinsmith/index.html",
-    "precache-manifest.aa1ce0f8af78841246c51f70a8d5d446.js": "JQuinSmith.github.io/jquinsmith/precache-manifest.aa1ce0f8af78841246c51f70a8d5d446.js",
+    "precache-manifest.fc59cfafb93c2e6c1803d8cca0bd07eb.js": "JQuinSmith.github.io/jquinsmith/precache-manifest.fc59cfafb93c2e6c1803d8cca0bd07eb.js",
     "service-worker.js": "JQuinSmith.github.io/jquinsmith/service-worker.js",
-    "static/css/main.ad701d4a.chunk.css.map": "JQuinSmith.github.io/jquinsmith/static/css/main.ad701d4a.chunk.css.map",
-    "static/js/2.6324a68b.chunk.js.LICENSE": "JQuinSmith.github.io/jquinsmith/static/js/2.6324a68b.chunk.js.LICENSE",
+    "static/css/main.eaf16be8.chunk.css.map": "JQuinSmith.github.io/jquinsmith/static/css/main.eaf16be8.chunk.css.map",
+    "static/js/2.65c0e879.chunk.js.LICENSE": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js.LICENSE",
     "static/media/1-HopeLogin.jpg": "JQuinSmith.github.io/jquinsmith/static/media/1-HopeLogin.e270ca9e.jpg",
     "static/media/1-Landing.png": "JQuinSmith.github.io/jquinsmith/static/media/1-Landing.8e6a51c6.png",
     "static/media/2-CreatinganIssue.png": "JQuinSmith.github.io/jquinsmith/static/media/2-CreatinganIssue.18dd87da.png",
@@ -34,6 +34,12 @@
     "static/media/QuinAnimation.png": "JQuinSmith.github.io/jquinsmith/static/media/QuinAnimation.a428bdfb.png",
     "static/media/QuinSmithResume.pdf": "JQuinSmith.github.io/jquinsmith/static/media/QuinSmithResume.00e1a477.pdf",
     "static/media/bangazon-screenshot.png": "JQuinSmith.github.io/jquinsmith/static/media/bangazon-screenshot.11cb2621.png",
+    "static/media/bangazonContentMap-1.jpg": "JQuinSmith.github.io/jquinsmith/static/media/bangazonContentMap-1.920aeb09.jpg",
+    "static/media/bangazonContentMap-2.jpg": "JQuinSmith.github.io/jquinsmith/static/media/bangazonContentMap-2.efa93e39.jpg",
+    "static/media/bangazonJourneyMap-1.jpg": "JQuinSmith.github.io/jquinsmith/static/media/bangazonJourneyMap-1.b91d3c8e.jpg",
+    "static/media/bangazonJourneyMap-2.jpg": "JQuinSmith.github.io/jquinsmith/static/media/bangazonJourneyMap-2.29198182.jpg",
+    "static/media/bangazonLoFiMockups.jpg": "JQuinSmith.github.io/jquinsmith/static/media/bangazonLoFiMockups.765d037b.jpg",
+    "static/media/bangazonPaperMockup-usertest.jpg": "JQuinSmith.github.io/jquinsmith/static/media/bangazonPaperMockup-usertest.321f2a47.jpg",
     "static/media/bangazonPersona-Hattie.png": "JQuinSmith.github.io/jquinsmith/static/media/bangazonPersona-Hattie.63616867.png",
     "static/media/bangazonPersona-Lisa.png": "JQuinSmith.github.io/jquinsmith/static/media/bangazonPersona-Lisa.ce488580.png",
     "static/media/cohort35-Persona.png": "JQuinSmith.github.io/jquinsmith/static/media/cohort35-Persona.f55829c1.png",
@@ -42,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.482f2faa.js",
-    "static/js/2.6324a68b.chunk.js",
-    "static/css/main.ad701d4a.chunk.css",
-    "static/js/main.3c7e79dc.chunk.js"
+    "static/js/2.65c0e879.chunk.js",
+    "static/css/main.eaf16be8.chunk.css",
+    "static/js/main.b2b11dfc.chunk.js"
   ]
 }
