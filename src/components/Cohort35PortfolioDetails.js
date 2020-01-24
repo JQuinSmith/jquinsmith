@@ -16,7 +16,7 @@ export default class Cohort35PortfolioDetails extends Component {
                 </div>
                 <div className="cohortOverviewDiv">
                     <h4 className="hopeDetailsSection">- Overview</h4>
-                    <h5 className="hopeDetailsHeader">Cohort 35 is Unique</h5>
+                    <h5 className="hopeDetailsHeader">Cohort 35 is unique</h5>
                     <p className="hopeDetailsBody">
                         Much like every cohort that preceded us at Nashville Software School, we spent the first half of our six month bootcamp as a unified group learning the fundamentals of HTML, CSS, JavaScript, and ReactJS.
                     </p>
@@ -34,7 +34,7 @@ export default class Cohort35PortfolioDetails extends Component {
                 <div className="cohortOverviewDiv">
                     <h4 className="hopeDetailsSection">- Hypothesis</h4>
                     <h5 className="hopeDetailsHeader">
-                        Emphasize our differences as early and as frequently as possible
+                        Emphasize our differences as early and as frequently as possible.
                     </h5>
                     <p className="hopeDetailsBody">
                         While we take pride in who we are as a cohort, we have to understand that, for the purpose of building this website, we would not be the primary users.

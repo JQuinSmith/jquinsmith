@@ -15,9 +15,9 @@ class Navigation extends Component {
                     </div>
                     <div>
                         <ul className="navbar">
-                            <li><Link className="portfolio-link" to="/jquinsmith/portfolio">Portfolio</Link></li>
+                            <li><Link className="portfolio-link" to="/portfolio">Portfolio</Link></li>
                             <li><a className="resume-link" target="_blank" rel="noopener noreferrer" href={require("../resources/QuinSmithResume.pdf")}>Resume</a></li>
-                            <li><Link className="about-me-link" to="/jquinsmith/about">About</Link></li>
+                            <li><Link className="about-me-link" to="/about">About</Link></li>
                         </ul>
                     </div>
                 </div>
