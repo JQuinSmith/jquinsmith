@@ -134,56 +134,16 @@ export default class BangazonPortfolioDetails extends Component {
                     </div>
                 </div>
 
-
-                <div className="flowDivInverse">
-                    <h5 className="hopeFlowBodyInverse">
-                        2)
-                        If the user chooses to create an issue, a modal containing a form appears, allowing the user to add details, location, and an image to better describe the problem they are facing.
-                    </h5>
-                    <div className="hopeFlowImgLeft">
-                        <img src={require("../resources/2-CreatinganIssue.png")} alt="resolving complete" className="hopeFlowImg" />
-                    </div>
-                </div>
-
+                <h4 className="hopeDetailsSection">- The Flow</h4>
                 <div className="flowDiv">
                     <h5 className="hopeFlowBody">
-                        3)
-                        Once the issue is created, a new card populates the issue list on the landing page and on the user's 'My Issues' tab with the details he or she has entered.
+                        Upon logging in, the user is presented with a map and list of available issues awaiting resolution.
                     </h5>
                     <div className="hopeFlowImgRight">
-                        <img src={require("../resources/3-MyIssueView.png")} alt="resolving complete" className="hopeFlowImg" />
+                        <img src={require("../resources/1-Landing.png")} alt="resolving complete" className="hopeFlowImg" />
                     </div>
                 </div>
 
-                <div className="flowDivInverse">
-                    <h5 className="hopeFlowBodyInverse">
-                        4)
-                        Inversely, the user can choose to take on a task that someone else has created.
-                    </h5>
-                    <div className="hopeFlowImgLeft">
-                        <img src={require("../resources/4-LendingSomeoneaHand.png")} alt="resolving complete" className="hopeFlowImg" />
-                    </div>
-                </div>
-
-                <div className="flowDiv">
-                    <h5 className="hopeFlowBody">
-                        5)
-                        Once the task is accepted, a new card populates the issue list on the landing page and on the user's 'My Accepted Issues' tab with the deadline listed and the option to either opt out of lending assistance or declaring the task as complete.
-                    </h5>
-                    <div className="hopeFlowImgRight">
-                        <img src={require("../resources/5-CompletingtheTask.png")} alt="resolving complete" className="hopeFlowImg" />
-                    </div>
-                </div>
-
-                <div className="flowDivInverse">
-                    <h5 className="hopeFlowBodyInverse">
-                        6)
-                        Once the task has been addressed, the card then appears on the 'Resolved Issues' tab. Both the user who created the issue and the user who completed the task are afforded the opportunity to leave additional comments or reviews as necessary.
-                    </h5>
-                    <div className="hopeFlowImgLeft">
-                        <img src={require("../resources/6-AddingComments.png")} alt="resolving complete" className="hopeFlowImg" />
-                    </div>
-                </div>
                 <div className="portfolioButtonContainer">
                     <a href="#root" className="button">Back to Top</a>
                 </div>

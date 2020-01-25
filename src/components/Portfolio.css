@@ -334,19 +334,6 @@
     margin-top: 15%;
 }
 
-.bangazonMaps {
-    max-width: 65%;
-    min-width: 280px;
-    box-shadow: 15px 15px 20px 5px rgba(50, 50, 50, 0.15), 25px -25px 0px 10px rgba(255, 122, 89, 0.75);
-    margin-top: 15%;
-}
-
-.bangazonMockups {
-    max-width: 445px;
-    min-width: 280px;
-    box-shadow: 15px 15px 20px 5px rgba(50, 50, 50, 0.15), 25px -25px 0px 10px rgba(255, 122, 89, 0.75);
-    margin-top: 15%;
-}
 
 .bottomRight{
     max-width: 400px;
@@ -367,6 +354,7 @@
 .hopeDetailsHeader {
     text-align: left;
     font-family: 'Raleway', sans-serif;
+    max-width: 75%;
     font-size: 25px;
     margin-left: 5%;
 }
@@ -375,6 +363,7 @@
     text-align: left;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
+    max-width: 75%;
     margin-left: 5%;
     margin-right: 15%;
 }
@@ -517,6 +506,20 @@
     text-align: left;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
+}
+
+.bangazonMaps {
+    max-width: 65%;
+    min-width: 280px;
+    box-shadow: 15px 15px 20px 5px rgba(50, 50, 50, 0.15), 25px -25px 0px 10px rgba(255, 122, 89, 0.75);
+    margin-top: 10%;
+}
+
+.bangazonMockups {
+    max-width: 445px;
+    min-width: 280px;
+    box-shadow: 15px 15px 20px 5px rgba(50, 50, 50, 0.15), 25px -25px 0px 10px rgba(255, 122, 89, 0.75);
+    margin-top: 5%;
 }
 
  .hubspotImg{
