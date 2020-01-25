@@ -36,21 +36,21 @@ export default class ApplicationViews extends Component {
                 />
 
                 <Route
-                    exact path="/jquinsmith/portfolio/hope" render={props => {
+                    exact path="/jquinsmith/hope" render={props => {
                         return <HopePortfolioDetails {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/jquinsmith/portfolio/cohort35" render={props => {
+                    exact path="/jquinsmith/cohort35" render={props => {
                         return <Cohort35PortfolioDetails {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/jquinsmith/portfolio/bangazon" render={props => {
+                    exact path="/jquinsmith/bangazon" render={props => {
                         return <BangazonPortfolioDetails {...props} />
 
                     }}
