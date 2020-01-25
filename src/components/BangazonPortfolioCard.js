@@ -9,7 +9,7 @@ export default class BangazonPortfolioCard extends Component {
                         <h1 className="hopePortfolioHeader">Bangazon</h1>
                         <p className="hopePortfolioBody">A  web-app for administrative staff of Bangazon to create and manage customer and employee data.</p>
                         <div className="buttonContainer">
-                            <a href="/portfolio/bangazon" className="button">View the Case Study</a>
+                            <a href="/jquinsmith/portfolio/bangazon" className="button">View the Case Study</a>
                         </div>
                     </div>
                     <div className="orangeDotsDiv">
