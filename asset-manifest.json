@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "JQuinSmith.github.io/jquinsmith/static/css/main.3c3497ea.chunk.css",
-    "main.js": "JQuinSmith.github.io/jquinsmith/static/js/main.62f37684.chunk.js",
-    "main.js.map": "JQuinSmith.github.io/jquinsmith/static/js/main.62f37684.chunk.js.map",
+    "main.css": "JQuinSmith.github.io/jquinsmith/static/css/main.81450527.chunk.css",
+    "main.js": "JQuinSmith.github.io/jquinsmith/static/js/main.c899bd32.chunk.js",
+    "main.js.map": "JQuinSmith.github.io/jquinsmith/static/js/main.c899bd32.chunk.js.map",
     "runtime-main.js": "JQuinSmith.github.io/jquinsmith/static/js/runtime-main.482f2faa.js",
     "runtime-main.js.map": "JQuinSmith.github.io/jquinsmith/static/js/runtime-main.482f2faa.js.map",
-    "static/js/2.65c0e879.chunk.js": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js",
-    "static/js/2.65c0e879.chunk.js.map": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js.map",
+    "static/js/2.f9a189cf.chunk.js": "JQuinSmith.github.io/jquinsmith/static/js/2.f9a189cf.chunk.js",
+    "static/js/2.f9a189cf.chunk.js.map": "JQuinSmith.github.io/jquinsmith/static/js/2.f9a189cf.chunk.js.map",
     "index.html": "JQuinSmith.github.io/jquinsmith/index.html",
-    "precache-manifest.280ad24f31bbcd066d428b2c1d4f22a4.js": "JQuinSmith.github.io/jquinsmith/precache-manifest.280ad24f31bbcd066d428b2c1d4f22a4.js",
+    "precache-manifest.cb8feb4cd99ba0d75ca92bf470b86fb6.js": "JQuinSmith.github.io/jquinsmith/precache-manifest.cb8feb4cd99ba0d75ca92bf470b86fb6.js",
     "service-worker.js": "JQuinSmith.github.io/jquinsmith/service-worker.js",
-    "static/css/main.3c3497ea.chunk.css.map": "JQuinSmith.github.io/jquinsmith/static/css/main.3c3497ea.chunk.css.map",
-    "static/js/2.65c0e879.chunk.js.LICENSE": "JQuinSmith.github.io/jquinsmith/static/js/2.65c0e879.chunk.js.LICENSE",
+    "static/css/main.81450527.chunk.css.map": "JQuinSmith.github.io/jquinsmith/static/css/main.81450527.chunk.css.map",
+    "static/js/2.f9a189cf.chunk.js.LICENSE": "JQuinSmith.github.io/jquinsmith/static/js/2.f9a189cf.chunk.js.LICENSE",
     "static/media/1-HopeLogin.jpg": "JQuinSmith.github.io/jquinsmith/static/media/1-HopeLogin.e270ca9e.jpg",
     "static/media/1-Landing.png": "JQuinSmith.github.io/jquinsmith/static/media/1-Landing.8e6a51c6.png",
     "static/media/2-CreatinganIssue.png": "JQuinSmith.github.io/jquinsmith/static/media/2-CreatinganIssue.18dd87da.png",
@@ -48,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.482f2faa.js",
-    "static/js/2.65c0e879.chunk.js",
-    "static/css/main.3c3497ea.chunk.css",
-    "static/js/main.62f37684.chunk.js"
+    "static/js/2.f9a189cf.chunk.js",
+    "static/css/main.81450527.chunk.css",
+    "static/js/main.c899bd32.chunk.js"
   ]
 }
