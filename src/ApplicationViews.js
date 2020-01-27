@@ -15,7 +15,7 @@ class ApplicationViews extends Component {
         return (
             <>
                 <Route
-                    exact path="/" render={props => {
+                    exact path="/jquinsmith" render={props => {
                         return <Landing {...props} />
 
                     }}
