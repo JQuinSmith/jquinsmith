@@ -9,8 +9,8 @@ class Navigation extends Component {
             <>
                 <div className="navContainer">
                     <div className="logoContainer">
-                        <a href="/jquinsmith"><img src={require("../images/QuinAnimation.png")} alt="logo" className="quinLogo"/></a>
-                        <a href="/jquinsmith"><img src={require("../images/QuinAnimation.gif")} alt="logo" className="quinLogoGif"/></a>
+                        <Link to="/"><img src={require("../images/QuinAnimation.png")} alt="logo" className="quinLogo"/></Link>
+                        <Link to="/"><img src={require("../images/QuinAnimation.gif")} alt="logo" className="quinLogoGif"/></Link>
 
                     </div>
                     <div>

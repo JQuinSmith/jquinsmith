@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom"
 import "./Portfolio.css"
 
 export default class HopePortfolioDetails extends Component {
@@ -174,7 +175,7 @@ export default class HopePortfolioDetails extends Component {
                     </div>
                 </div>
                 <div className="portfolioButtonContainer">
-                    <a href="#root" className="button">Back to Top</a>
+                    <Link to="/portfolio/hope" className="button">Back to Top</Link>
                 </div>
             </>
         )

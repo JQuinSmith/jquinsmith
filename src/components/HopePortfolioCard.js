@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import { Link } from "react-router-dom"
+import { Link } from "react-router-dom"
 import "./Portfolio.css"
 
 export default class HopePortfolioCard extends Component {
@@ -12,7 +12,7 @@ export default class HopePortfolioCard extends Component {
                         <h1 className="hopePortfolioHeader">Hope</h1>
                         <p className="hopePortfolioBody">A “pay-it-forward” app for users within the greater Nashville community to post or resolve tickets that may relate to personal or financial issues.</p>
                         <div className="buttonContainer">
-                            <a href="/portfolio/hope" className="button">View the Case Study</a>
+                            <Link to="/portfolio/hope" className="button">View the Case Study</Link>
                         </div>
                     </div>
                     <div className="blueDotsDiv">

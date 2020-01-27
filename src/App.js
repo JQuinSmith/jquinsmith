@@ -7,10 +7,10 @@ import ApplicationViews from './ApplicationViews'
 function App() {
   return (
     <>
-      {/* <HashRouter basename="/"> */}
+
       <Navigation />
-        <ApplicationViews />
-      {/* </HashRouter> */}
+      <ApplicationViews />
+
     </>
   );
 }

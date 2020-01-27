@@ -15,7 +15,7 @@ class ApplicationViews extends Component {
         return (
             <>
                 <Route
-                    exact path={process.env.PUBLIC_URL + '/jquinsmith'} render={props => {
+                    exact path='/' render={props => {
                         return <Landing {...props} />
 
                     }}
@@ -36,7 +36,7 @@ class ApplicationViews extends Component {
                 />
 
                 <Route
-                    exact path={process.env.PUBLIC_URL + '/portfolio/hope'} render={props => {
+                    exact path='/portfolio/hope' render={props => {
                         return <HopePortfolioDetails {...props} />
 
                     }}
