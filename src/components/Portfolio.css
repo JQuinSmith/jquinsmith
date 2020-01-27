@@ -262,7 +262,7 @@
 }
 
 .statementDiv {
-    padding: 20px;
+    padding: 50px;
 }
 
 .cohortOverviewDiv {
@@ -273,7 +273,7 @@
 
 .bangazonOverviewDiv {
     background-color: rgba(255, 122, 89, 0.75);
-    padding: 20px;
+    padding: 50px;
 
 }
 
@@ -283,7 +283,7 @@
 }
 
 .problemDiv{
-    padding: 20px;
+    padding: 50px;
 }
 
 .mockupDiv {
@@ -308,10 +308,10 @@
 .mockupImagesResearch {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: space-between;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 75px;
+    margin-bottom: 10%;
 }
 
 .mockupImagesBottom {
@@ -343,12 +343,10 @@
 
 .hopeDetailsSection {
     text-align: left;
-    font-size: 20px;
     font-family: 'Roboto', sans-serif;
+    font-size: 20px;
     font-weight: 300;
-    margin-bottom: 0px;
     margin-left: 5%;
-    margin-top: 5%;
 }
 
 .hopeDetailsHeader {
@@ -509,10 +507,10 @@
 }
 
 .bangazonMaps {
-    max-width: 65%;
+    max-width: 445px;
     min-width: 280px;
     box-shadow: 15px 15px 20px 5px rgba(50, 50, 50, 0.15), 25px -25px 0px 10px rgba(255, 122, 89, 0.75);
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 .bangazonMockups {
@@ -522,14 +520,35 @@
     margin-top: 5%;
 }
 
- .hubspotImg{
+
+.hubspotImg{
     width: 75%;
     max-height: 100%;
     box-shadow:  0px 7px 30px 0px rgba(50, 50, 50, 0.25);
 
- }
+}
 
- .hubspotDiv {
+.hubspotDiv {
     display: flex;
     justify-content: center;
- }
+}
+
+.vimeoContainer{
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+    justify-content: space-between;
+
+}
+
+.vimeoDetailsHeader {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    max-width: 45%;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+

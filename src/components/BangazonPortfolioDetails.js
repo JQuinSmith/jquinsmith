@@ -20,15 +20,23 @@ export default class BangazonPortfolioDetails extends Component {
                     <p className="hopeDetailsBody">
                         Bangazon Inc., a personalized e-commerce platform, is a fictional company at Nashville Software School. The goal of Bangazon is to become the most personalized, and most powerful commercial platform for individuals around the globe. Nashville Software School "employs" its students to build all of the technology and tooling for the company.
                     </p>
+                    <p className="hopeDetailsBody">
+                        For the first half of this project, our cohort worked as a whole to dive into researching and testing with users and pre-existing platforms and applications in order to create a fleshed out mock-up, using Figma as our prototyping tool of choice.
+                    </p>
+                    <p className="hopeDetailsBody">
+                        Once the research and prototyping phase was complete, I took on coding the project using the pre-established API endpoints provided by one of the C# instructors coordinating the project.
+                    </p>
                 </div>
                 <div className="problemDiv">
                     <h4 className="hopeDetailsSection">- Problem</h4>
                     <h5 className="hopeDetailsHeader">Inefficient storage and use of data and resources.</h5>
                     <p className="hopeDetailsBody">
                         Bangazon Aquariums LLC currently uses Google Docs to manage their administrative tasks related to employees and customers. Google Docs is not an integrated system, so there are often multiple and competing pieces of information, which results in poor customer service and employee relations. In addition, Bangazon is slow in response to replacing aging computer equipment and managing employee trainings.
-                        They need a better way to manage two important parts of their company: customers and their products, and employees.
-
                     </p>
+                    <p className="hopeDetailsBody">
+                        They need a better way to manage two important parts of their company: customers and their products, and employees.
+                    </p>
+
                 </div>
                 <div className="bangazonOverviewDiv">
                     <h4 className="hopeDetailsSection">- Problem Statement</h4>
@@ -83,66 +91,43 @@ export default class BangazonPortfolioDetails extends Component {
                 </div>
 
                 <h4 className="hopeDetailsSection">- Journey Maps</h4>
-                <div className="mockupDiv">
-                    <div className="mockupImagesRow">
-                        <div className="topLeft">
-                            <img src={require("../resources/bangazonJourneyMap-1.jpg")} alt="hope login" className="bangazonMaps" />
-                        </div>
-                        <div className="topLeft">
-                            <img src={require("../resources/bangazonJourneyMap-2.jpg")} alt="hope landing page" className="bangazonMaps" />
-                        </div>
-                    </div>
+                <div className="mockupImagesResearch">
+                    <img src={require("../resources/bangazonJourneyMap-1.jpg")} alt="hope login" className="bangazonMaps" />
 
+                    <img src={require("../resources/bangazonJourneyMap-2.jpg")} alt="hope landing page" className="bangazonMaps" />
                 </div>
+
 
                 <h4 className="hopeDetailsSection">- Content Maps</h4>
-                <div className="mockupDiv">
-                    <div className="mockupImagesRow">
-                        <div className="topLeft">
-                            <img src={require("../resources/bangazonContentMap-1.jpg")} alt="hope login" className="bangazonMaps" />
-                        </div>
-                        <div className="topLeft">
-                            <img src={require("../resources/bangazonContentMap-2.jpg")} alt="hope landing page" className="bangazonMaps" />
-                        </div>
-                    </div>
+                <div className="mockupImagesResearch">
+                    <img src={require("../resources/bangazonContentMap-1.jpg")} alt="hope login" className="bangazonMaps" />
 
+                    <img src={require("../resources/bangazonContentMap-2.jpg")} alt="hope landing page" className="bangazonMaps" />
                 </div>
 
-                <h4 className="hopeDetailsSection">- Lo-Fi Mockups</h4>
-                <div className="mockupDiv">
-                    <div className="mockupImagesResearch">
-                            <img src={require("../resources/bangazonLoFiMockups.jpg")} alt="hope login" className="bangazonMockups" />
-                    </div>
 
+
+                <h4 className="hopeDetailsSection">- Lo-Fi Mockups & User Testing</h4>
+                <div className="mockupImagesResearch">
+                    <img src={require("../resources/bangazonLoFiMockups.jpg")} alt="hope login" className="bangazonMockups" />
+
+                    <img src={require("../resources/bangazonPaperMockup-usertest.jpg")} alt="resolving complete" className="bangazonMockups" />
                 </div>
 
-                <h4 className="hopeDetailsSection">- User Testing</h4>
-                <div className="mockupDiv">
-                    <div className="mockupImagesResearch">
-                        <img src={require("../resources/bangazonPaperMockup-usertest.jpg")} alt="resolving complete" className="bangazonMockups" />
-                    </div>
-                </div>
+
+
 
                 <h4 className="hopeDetailsSection">- Hi-Fi Mockups</h4>
-                <div className="flowDiv">
-                    <h5 className="hopeFlowBody">
-                        1)
-                        Upon logging in, the user is presented with a map and list of available issues awaiting resolution.
+                <div className="vimeoContainer">
+                    <h5 className="vimeoDetailsHeader">
+                        Based on the results from our user testing, we created a high fidelity mock-up in Figma to use as a guide once coding was underway.
                     </h5>
-                    <div className="hopeFlowImgRight">
-                        <img src={require("../resources/1-Landing.png")} alt="resolving complete" className="hopeFlowImg" />
+                    <div className="bangazonMockupVideo">
+                        <iframe src="https://player.vimeo.com/video/387458499" width="640" height="368" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                        <a href="https://vimeo.com/387458499"></a>
                     </div>
                 </div>
 
-                <h4 className="hopeDetailsSection">- The Flow</h4>
-                <div className="flowDiv">
-                    <h5 className="hopeFlowBody">
-                        Upon logging in, the user is presented with a map and list of available issues awaiting resolution.
-                    </h5>
-                    <div className="hopeFlowImgRight">
-                        <img src={require("../resources/1-Landing.png")} alt="resolving complete" className="hopeFlowImg" />
-                    </div>
-                </div>
 
                 <div className="portfolioButtonContainer">
                     <a href="#root" className="button">Back to Top</a>
