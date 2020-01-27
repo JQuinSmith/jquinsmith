@@ -9,15 +9,15 @@ class Navigation extends Component {
             <>
                 <div className="navContainer">
                     <div className="logoContainer">
-                        <a href="/jquinsmith"><img src={require("../images/QuinAnimation.png")} alt="logo" className="quinLogo"/></a>
-                        <a href="/jquinsmith"><img src={require("../images/QuinAnimation.gif")} alt="logo" className="quinLogoGif"/></a>
+                        <a href="/"><img src={require("../images/QuinAnimation.png")} alt="logo" className="quinLogo"/></a>
+                        <a href="/"><img src={require("../images/QuinAnimation.gif")} alt="logo" className="quinLogoGif"/></a>
 
                     </div>
                     <div>
                         <ul className="navbar">
-                            <li><Link className="portfolio-link" to="/jquinsmith/portfolio">Portfolio</Link></li>
+                            <li><Link className="portfolio-link" to="/portfolio">Portfolio</Link></li>
                             <li><a className="resume-link" target="_blank" rel="noopener noreferrer" href={require("../resources/QuinSmithResume.pdf")}>Resume</a></li>
-                            <li><Link className="about-me-link" to="/jquinsmith/about">About</Link></li>
+                            <li><Link className="about-me-link" to="/about">About</Link></li>
                         </ul>
                     </div>
                 </div>

@@ -1,4 +1,4 @@
-import { Route } from "react-router-dom";
+import { Route, withRouter } from "react-router-dom";
 import React, { Component } from "react";
 import Landing from './components/Landing'
 import PortfolioList from './components/PortfolioList'
@@ -9,48 +9,48 @@ import About from './components/About'
 import Resume from './Resume'
 import Contact from './Contact'
 
-export default class ApplicationViews extends Component {
+class ApplicationViews extends Component {
 
     render() {
         return (
             <>
                 <Route
-                    exact path="/jquinsmith" render={props => {
+                    exact path="/" render={props => {
                         return <Landing {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/jquinsmith/about" render={props => {
+                    exact path="/about" render={props => {
                         return <About {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/jquinsmith/portfolio" render={props => {
+                    exact path="/portfolio" render={props => {
                         return <PortfolioList {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/jquinsmith/portfolio/hope" render={props => {
+                    exact path="/portfolio/hope" render={props => {
                         return <HopePortfolioDetails {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/jquinsmith/portfolio/cohort35" render={props => {
+                    exact path="/portfolio/cohort35" render={props => {
                         return <Cohort35PortfolioDetails {...props} />
 
                     }}
                 />
 
                 <Route
-                    exact path="/jquinsmith/portfolio/bangazon" render={props => {
+                    exact path="/portfolio/bangazon" render={props => {
                         return <BangazonPortfolioDetails {...props} />
 
                     }}
@@ -73,3 +73,5 @@ export default class ApplicationViews extends Component {
         )
     }
 }
+
+export default withRouter(ApplicationViews)

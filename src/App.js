@@ -6,8 +6,8 @@ import ApplicationViews from './ApplicationViews'
 function App() {
   return (
     <>
-      <Navigation />
-      <ApplicationViews />
+        <Navigation />
+        <ApplicationViews />
     </>
   );
 }
