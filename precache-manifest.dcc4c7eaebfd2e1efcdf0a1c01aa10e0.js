@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d842e48b713938b752446d6c14546f26",
+    "revision": "130e9ee2cf9197f40a8305a398f604a6",
     "url": "/jquinsmith/index.html"
   },
   {
-    "revision": "dad66ce4621e726cd313",
-    "url": "/jquinsmith/static/css/main.7e85b94a.chunk.css"
+    "revision": "82a317b018db82210189",
+    "url": "/jquinsmith/static/css/main.3c7b4d18.chunk.css"
   },
   {
     "revision": "67f9321c99b4bd0e4405",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jquinsmith/static/js/2.29928bcd.chunk.js.LICENSE"
   },
   {
-    "revision": "dad66ce4621e726cd313",
-    "url": "/jquinsmith/static/js/main.ffb00df4.chunk.js"
+    "revision": "82a317b018db82210189",
+    "url": "/jquinsmith/static/js/main.a30a8e7c.chunk.js"
   },
   {
     "revision": "435912833f7ce784d659",
@@ -152,7 +152,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jquinsmith/static/media/cohort35-screenshot.d6328772.png"
   },
   {
+    "revision": "8dfaec0d1a8d48b8578a5a5b5a54d6e9",
+    "url": "/jquinsmith/static/media/dribbble.8dfaec0d.png"
+  },
+  {
+    "revision": "5bc2e75f2dea037d2d03b05aa7c96b2a",
+    "url": "/jquinsmith/static/media/github.5bc2e75f.png"
+  },
+  {
     "revision": "c04a97be36bd86120488cdf651a12e0b",
     "url": "/jquinsmith/static/media/hope-screenshot.c04a97be.png"
+  },
+  {
+    "revision": "3a62b1daca3c29a89d825c5b0844f260",
+    "url": "/jquinsmith/static/media/instagram.3a62b1da.png"
   }
 ]);
