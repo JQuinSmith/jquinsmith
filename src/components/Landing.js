@@ -24,7 +24,7 @@ class Landing extends Component {
                             {/* <h3 className="landingSubheader">Find Me on Social Media</h3> */}
                             <div className="socialIcons">
                                 <div className="iconContainer">
-                                    <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer" ><img src={require("../images/linkedin.png")} alt="Quin's linkedIn" className="icon" />
+                                    <a href="https://www.linkedin.com/in/jquinsmith/" target="_blank" rel="noopener noreferrer" ><img src={require("../images/linkedin.png")} alt="Quin's linkedIn" className="icon" />
                                     </a>
                                 </div>
                                 <div className="iconContainer">
@@ -33,19 +33,20 @@ class Landing extends Component {
                                 </div>
 
                                 <div className="iconContainer">
-                                    <a href="http://www.behance.net" target="_blank" rel="noopener noreferrer" ><img src={require("../images/behance.png")} alt="Quin's behance" className="icon" />
-                                    </a>
-                                </div>
-
-                                <div className="iconContainer">
                                     <a href="https://dribbble.com/JQuinSmith" target="_blank" rel="noopener noreferrer" >
                                         <img src={require("../images/dribbble.png")} alt="Quin's dribbble" className="icon" />
                                     </a>
                                 </div>
+
                                 <div className="iconContainer">
-                                    <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer" ><img src={require("../images/instagram.png")} alt="Quin's Instagram" className="icon" />
+                                    <a href="http://www.behance.net" target="_blank" rel="noopener noreferrer" ><img src={require("../images/behance.png")} alt="Quin's behance" className="icon" />
                                     </a>
                                 </div>
+
+                                {/* <div className="iconContainer">
+                                    <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer" ><img src={require("../images/instagram.png")} alt="Quin's Instagram" className="icon" />
+                                    </a>
+                                </div> */}
                             </div>
                         </div >
                     </div >
