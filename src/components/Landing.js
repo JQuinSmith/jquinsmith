@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 
 class Landing extends Component {
     render() {
@@ -11,30 +12,46 @@ class Landing extends Component {
                     <div className="stackedContainer">
                         <h1 className="landingHeader">J. Quin Smith</h1>
                         <p className="landingBody">
-                            Front End Web Developer & UI/UX Designer
+                            Front End Web Developer &amp; UI/UX Designer
                             <br></br>from Nashville, Tennessee
                         </p>
                         <div className="yellowDots">
                             <img src={require("../resources/dots-yellow.png")} alt="yellow dots" className="yellowDotsImg" />
                         </div>
-                        <div className="landingSubcontainer">
-                            <h2 className="landingSubheader">
-                                Let’s connect
-                        </h2>
-                            <p className="landingBody">Interested in knowing more about my work?
-                        <br></br>
-                                Shoot me an email:
-                        </p>
-                            <p className="landingBody"> jquinsmyth@gmail.com
-                        </p>
-                            <p className="landingBody">
-                                Also find me on social media:
-                        </p>
-                        </div>
-                    </div>
 
 
-                </div>
+                        <div className="socialDiv">
+                            {/* <h3 className="landingSubheader">Find Me on Social Media</h3> */}
+                            <div className="socialIcons">
+                                <div className="iconContainer">
+                                    <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer" ><img src={require("../images/linkedin.png")} alt="Quin's linkedIn" className="icon" />
+                                    </a>
+                                </div>
+                                <div className="iconContainer">
+                                    <a href="http://www.github.com/JQuinSmith" target="_blank" rel="noopener noreferrer" > <img src={require("../images/github.png")} alt="Quin's GitHub" className="icon" />
+                                    </a>
+                                </div>
+
+                                <div className="iconContainer">
+                                    <a href="http://www.behance.net" target="_blank" rel="noopener noreferrer" ><img src={require("../images/behance.png")} alt="Quin's behance" className="icon" />
+                                    </a>
+                                </div>
+
+                                <div className="iconContainer">
+                                    <a href="https://dribbble.com/JQuinSmith" target="_blank" rel="noopener noreferrer" >
+                                        <img src={require("../images/dribbble.png")} alt="Quin's dribbble" className="icon" />
+                                    </a>
+                                </div>
+                                <div className="iconContainer">
+                                    <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer" ><img src={require("../images/instagram.png")} alt="Quin's Instagram" className="icon" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div >
+                    </div >
+
+
+                </div >
             </>
         )
     }

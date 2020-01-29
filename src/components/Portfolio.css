@@ -13,6 +13,24 @@
     max-width: 38%;
 }
 
+.socialIcons {
+    display: flex;
+    justify-content: space-between;
+    max-width: 75%;
+    margin-left: 25%;
+}
+
+.iconContainer {
+    text-align: right;
+}
+.icon {
+    max-width: 45%;
+}
+
+.iconAnchor{
+    max-width: 100%;
+}
+
 .aboutHeader {
     text-align: right;
     font-size: 55px;
@@ -32,7 +50,7 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    margin: 70px 25px 0px 0px;
+    margin: 140px 25px 0px 0px;
 }
 
 .landingSubcontainer {
@@ -43,14 +61,16 @@
     text-align: right;
     font-size: 55px;
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
+    font-weight: 300;
+    margin: 0px;
 }
 
 .landingSubheader {
     text-align: right;
-    font-family: 'Raleway', sans-serif;
-    font-size: 27px;
-    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    margin: 0px;
 }
 
 .landingBody {
@@ -90,6 +110,7 @@
     display: flex;
     justify-content: flex-end;
     padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .yellowDotsImg {
