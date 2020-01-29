@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jquinsmith/static/css/main.3c7b4d18.chunk.css",
-    "main.js": "/jquinsmith/static/js/main.a30a8e7c.chunk.js",
-    "main.js.map": "/jquinsmith/static/js/main.a30a8e7c.chunk.js.map",
+    "main.css": "/jquinsmith/static/css/main.030f367a.chunk.css",
+    "main.js": "/jquinsmith/static/js/main.27cd55db.chunk.js",
+    "main.js.map": "/jquinsmith/static/js/main.27cd55db.chunk.js.map",
     "runtime-main.js": "/jquinsmith/static/js/runtime-main.a8f3a1cf.js",
     "runtime-main.js.map": "/jquinsmith/static/js/runtime-main.a8f3a1cf.js.map",
     "static/js/2.29928bcd.chunk.js": "/jquinsmith/static/js/2.29928bcd.chunk.js",
     "static/js/2.29928bcd.chunk.js.map": "/jquinsmith/static/js/2.29928bcd.chunk.js.map",
     "index.html": "/jquinsmith/index.html",
-    "precache-manifest.dcc4c7eaebfd2e1efcdf0a1c01aa10e0.js": "/jquinsmith/precache-manifest.dcc4c7eaebfd2e1efcdf0a1c01aa10e0.js",
+    "precache-manifest.92ebcc9c1ce91876b5a6fad0d6233408.js": "/jquinsmith/precache-manifest.92ebcc9c1ce91876b5a6fad0d6233408.js",
     "service-worker.js": "/jquinsmith/service-worker.js",
-    "static/css/main.3c7b4d18.chunk.css.map": "/jquinsmith/static/css/main.3c7b4d18.chunk.css.map",
+    "static/css/main.030f367a.chunk.css.map": "/jquinsmith/static/css/main.030f367a.chunk.css.map",
     "static/js/2.29928bcd.chunk.js.LICENSE": "/jquinsmith/static/js/2.29928bcd.chunk.js.LICENSE",
     "static/media/1-HopeLogin.jpg": "/jquinsmith/static/media/1-HopeLogin.e270ca9e.jpg",
     "static/media/1-Landing.png": "/jquinsmith/static/media/1-Landing.8e6a51c6.png",
@@ -46,13 +46,12 @@
     "static/media/cohort35-screenshot.png": "/jquinsmith/static/media/cohort35-screenshot.d6328772.png",
     "static/media/dribbble.png": "/jquinsmith/static/media/dribbble.8dfaec0d.png",
     "static/media/github.png": "/jquinsmith/static/media/github.5bc2e75f.png",
-    "static/media/hope-screenshot.png": "/jquinsmith/static/media/hope-screenshot.c04a97be.png",
-    "static/media/instagram.png": "/jquinsmith/static/media/instagram.3a62b1da.png"
+    "static/media/hope-screenshot.png": "/jquinsmith/static/media/hope-screenshot.c04a97be.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a8f3a1cf.js",
     "static/js/2.29928bcd.chunk.js",
-    "static/css/main.3c7b4d18.chunk.css",
-    "static/js/main.a30a8e7c.chunk.js"
+    "static/css/main.030f367a.chunk.css",
+    "static/js/main.27cd55db.chunk.js"
   ]
 }

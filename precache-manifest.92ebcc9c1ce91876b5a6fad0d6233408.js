@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "130e9ee2cf9197f40a8305a398f604a6",
+    "revision": "11e9057bc37c3a07d7e73448514c25fc",
     "url": "/jquinsmith/index.html"
   },
   {
-    "revision": "82a317b018db82210189",
-    "url": "/jquinsmith/static/css/main.3c7b4d18.chunk.css"
+    "revision": "9bac1aa70b758cadf4ae",
+    "url": "/jquinsmith/static/css/main.030f367a.chunk.css"
   },
   {
     "revision": "67f9321c99b4bd0e4405",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jquinsmith/static/js/2.29928bcd.chunk.js.LICENSE"
   },
   {
-    "revision": "82a317b018db82210189",
-    "url": "/jquinsmith/static/js/main.a30a8e7c.chunk.js"
+    "revision": "9bac1aa70b758cadf4ae",
+    "url": "/jquinsmith/static/js/main.27cd55db.chunk.js"
   },
   {
     "revision": "435912833f7ce784d659",
@@ -162,9 +162,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c04a97be36bd86120488cdf651a12e0b",
     "url": "/jquinsmith/static/media/hope-screenshot.c04a97be.png"
-  },
-  {
-    "revision": "3a62b1daca3c29a89d825c5b0844f260",
-    "url": "/jquinsmith/static/media/instagram.3a62b1da.png"
   }
 ]);
